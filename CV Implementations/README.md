@@ -1,0 +1,5 @@
+### Birinci aşamada yer bilgisayarına gelen veriler üzerinden daha önce eğitilen ve hangi rakibe saldırmanın daha avantajlı olacağını tespit etmek için özel eğitilmiş yapay sinir ağı ile zayıf yahut saldırıya uygun rakipler belirlenir. Bu rakipler belirlenirken izledikleri rota manevraları, maksimum ve minimum hızları göz önünde buldurulur. Bu sistem simülasyon ortamında alınan örneklerin veri seti haline getirilmesi ve eğitilmesi sonucunda elde edilecektir.
+
+### İkinci aşamada hedef hava aracı belirlendikten sonra aracımıza yer istasyonu ile bir rota belirlenir bu rota rakibin tahmini konumu değerlendirilerek 3 ila 5 saniyelik görev paketleri oluşturulacaktır. Rakip yakın takip sistemi tarafından fark edilene kadar bu işlemler devam edecektir.
+
+### Rakip hizaya alındıktan sonra rakip etrafında dolanarak üçüncü bir araç tarafından kilitlenilmekten sakınmaya çalışacaktır.
